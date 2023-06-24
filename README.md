@@ -1,8 +1,12 @@
 for create plane :
 //https://localhost:3001/api/v1/flightplan/file
+
+
 {
     "flight_plan_id":"",
+    
 "aircraft_identification": "N67SVS",
+
 "aircraft_type": "PA-34 Piper Seneca",
 "airspeed": 128,
 "altitude": 12000,
